@@ -1,6 +1,6 @@
 {
     "name": "base python 3",
-	"dockerComposeFile": "docker-compose.yml",
+	"dockerComposeFile": "compose.yml",
 	"service": "devcontainer",
 	"workspaceFolder": "/workspace",
 
